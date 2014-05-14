@@ -1,11 +1,12 @@
 $NetBSD$
 
-SHA1 (spread-src-4.3.0.tar.gz) = 6bba730d45da3211846051034649713e02a2571e
-RMD160 (spread-src-4.3.0.tar.gz) = a9913d15d11d479fd70e8bebd9075381185e8b58
-Size (spread-src-4.3.0.tar.gz) = 745113 bytes
+SHA1 (spread-src-4.2.0.tar.gz) = 6052d39610ec27e856d601310f5b7a7b982d02dc
+RMD160 (spread-src-4.2.0.tar.gz) = 6c9e012c8106722fe75b9b601c4d3c23bb463aeb
+Size (spread-src-4.2.0.tar.gz) = 736189 bytes
 SHA1 (patch-configure) = 283f0e86e9cd149f5051e0b9a75471636a52191d
 SHA1 (patch-daemon_auth-ip.c) = 24e438cc78b40ae86f7d1380ae3b6415f859d43a
 SHA1 (patch-daemon_auth-pword.c) = 921404829d20ff8a6b45ee3495db07550d7d4eb9
+SHA1 (patch-daemon_configuration.c) = dab3c7bbf2090a4aebc97bdba5bf33f5761834e9
 SHA1 (patch-daemon_spread__params.h) = ad51ef7aa00b99a56833aa989400e6a382567b64
 SHA1 (patch-docs_Makefile.in) = fdbb971794a60e465f916fab77d7b2b7265d8eda
 SHA1 (patch-docs_sample.spread.conf) = fb288442e163ac1e613752615880486e18273a21

@@ -1,0 +1,10 @@
+@comment $NetBSD$
+bin/nagios-api
+bin/nagios-cli
+${PYSITELIB}/nagios_api-${PKGVERSION}-py2.7.egg-info
+${PYSITELIB}/nagios/__init__.py
+${PYSITELIB}/nagios/__init__.pyc
+${PYSITELIB}/nagios/__init__.pyo
+${PYSITELIB}/nagios/core.py
+${PYSITELIB}/nagios/core.pyc
+${PYSITELIB}/nagios/core.pyo

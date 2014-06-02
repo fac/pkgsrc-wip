@@ -1,0 +1,24 @@
+@comment $NetBSD$
+${PYSITELIB}/http_parser-${PKGVERSION}-py2.7.egg-info/dependency_links.txt
+${PYSITELIB}/http_parser-${PKGVERSION}-py2.7.egg-info/PKG-INFO
+${PYSITELIB}/http_parser-${PKGVERSION}-py2.7.egg-info/SOURCES.txt
+${PYSITELIB}/http_parser-${PKGVERSION}-py2.7.egg-info/top_level.txt
+${PYSITELIB}/http_parser/__init__.py
+${PYSITELIB}/http_parser/__init__.pyc
+${PYSITELIB}/http_parser/__init__.pyo
+${PYSITELIB}/http_parser/_socketio.py
+${PYSITELIB}/http_parser/_socketio.pyc
+${PYSITELIB}/http_parser/_socketio.pyo
+${PYSITELIB}/http_parser/http.py
+${PYSITELIB}/http_parser/http.pyc
+${PYSITELIB}/http_parser/http.pyo
+${PYSITELIB}/http_parser/parser.so
+${PYSITELIB}/http_parser/pyparser.py
+${PYSITELIB}/http_parser/pyparser.pyc
+${PYSITELIB}/http_parser/pyparser.pyo
+${PYSITELIB}/http_parser/reader.py
+${PYSITELIB}/http_parser/reader.pyc
+${PYSITELIB}/http_parser/reader.pyo
+${PYSITELIB}/http_parser/util.py
+${PYSITELIB}/http_parser/util.pyc
+${PYSITELIB}/http_parser/util.pyo
